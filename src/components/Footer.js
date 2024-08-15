@@ -13,7 +13,7 @@ export default function Footer(props) {
     <a href="https://www.wikipedia.org/ " className="btn btn-primary">Wickipedia</a>
   </div>
   <div className={`card-footer text-body-secondary bg-${props.mode} text-${props.mode === 'dark'?'light':'dark'}`} >
-    2 days ago
+    3 days ago
   </div>
 </div>
     </>

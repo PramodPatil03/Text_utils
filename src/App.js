@@ -7,7 +7,7 @@ import Alert from './components/Alert';
 import TextForm from './components/TextForm';
 import Footer from './components/Footer';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route
 } from 'react-router-dom';
